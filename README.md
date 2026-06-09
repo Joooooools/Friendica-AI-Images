@@ -1,3 +1,9 @@
+> **Hinweis / Notice:** Dieses Repository ist nach Forgejo umgezogen und wird auf GitHub nicht mehr gepflegt.  
+> This repository has moved to Forgejo and is no longer maintained on GitHub.  
+>  
+> **Aktuelle Version / Current version:**  
+> https://git.friendica.dev/Jools/friendica-ai-images
+
 Eine kleine Sammlung KI-generierter Bilder mit dem Friendica-Maskottchen Flaxy O’Hare.
 
 https://wiki.friendi.ca/about/flaxy
